@@ -322,19 +322,12 @@
             width="210"
             alt="unkown812"
     /></a>
-</p>
-<br /><br />
-
-<p>
     <img
         align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=unkown812&show_icons=true&locale=en&layout=compact"
         alt="unkown812"
     />
-</p>
-
-<p>
-    &nbsp;<img
+    <img
         align="center"
         src="https://github-readme-stats.vercel.app/api?username=unkown812&show_icons=true&locale=en"
         alt="unkown812"
