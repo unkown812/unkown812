@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **jayjogane@gmail.com**
+- 📫 How to reach me **@unkown812** on any platform
 
 - ⚡ Fun fact **Didn't get it ? , Create it !**
 
