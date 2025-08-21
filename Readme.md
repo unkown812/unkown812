@@ -41,12 +41,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,css,dart,html,java,js,kotlin,php,powershell,python,bash,ts,windows,oracle,netlify,gcp,firebase,vite,tailwind,styledcomponents,react,opencv,nodejs,npm,flutter,expo,bootstrap,chakra,sqlite,mysql,canva,figma,xd,pandas,numpy,matplotlib,scikit-learn,tensorflow,github,git,githubactions,babel,arduino,cmake,firefox,postman,tor,prettier,riotgames,epicgames" />
 </p>
-<details>
-  <summary>See all skills</summary>
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-</details>
 
 ---
 
@@ -56,14 +50,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=unkown812&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="150"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=unkown812&theme=dark&hide_border=false" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unkown812&theme=dark&hide_border=false&layout=compact" height="150"/>
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=unkown812&theme=react&no-frame=false&no-bg=false&margin-w=4" />
 </p>
 
 ---
@@ -84,14 +70,6 @@
 
 ---
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in/api?id=unkown812&icon=0&color=0">
-    <img src="https://visitcount.itsvg.in/api?id=unkown812&icon=0&color=0" alt="Profile Visit Counter" />
-  </a>
-</p>
-
----
-
 ## 💰 Support My Work
 
 <p align="center">
@@ -102,10 +80,9 @@
 
 ---
 
-<details>
-<summary>🌟 Fun fact about my journey</summary>
+<b>🌟 Fun fact about my journey</b>
 <p>
 If something doesn't exist yet, I just build it! 🚀<br>
 Always ready to experiment, learn, and help others grow.
 </p>
-</details>
+
