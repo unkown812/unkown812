@@ -39,7 +39,7 @@
 ### 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,css,dart,html,java,js,php,powershell,python,bash,ts,firebase,vite,tailwind,react,expo,canva,figma,scikit-learn,github,git,arduino,cmake,tor,prettier,riotgames,epicgames" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,dart,html,java,js,python,firebase,vite,tailwind,react,expo,canva,figma,scikit-learn,github,git,arduino" />
 </p>
 
 ---
