@@ -39,7 +39,7 @@
 ### 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,css,dart,html,java,js,kotlin,php,powershell,python,bash,ts,windows,oracle,netlify,gcp,firebase,vite,tailwind,styledcomponents,react,opencv,nodejs,npm,flutter,expo,bootstrap,chakra,sqlite,mysql,canva,figma,xd,pandas,numpy,matplotlib,scikit-learn,tensorflow,github,git,githubactions,babel,arduino,cmake,firefox,postman,tor,prettier,riotgames,epicgames" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,css,dart,html,java,js,php,powershell,python,bash,ts,firebase,vite,tailwind,react,expo,canva,figma,scikit-learn,github,git,arduino,cmake,tor,prettier,riotgames,epicgames" />
 </p>
 
 ---
