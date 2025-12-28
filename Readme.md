@@ -17,7 +17,7 @@
 - 🌱 Engineering the **Life**
 - 🤝 Open to collaboration on **major projects**
 - 💬 Ask me about **Web Development**
-- 📫 Reach me: **@unkown812 on any platform**
+- 📫 Reach me: **@unkown812**
 - ⚡ Fun fact: *"Didn't get it? Create it!"*
 
 ---
