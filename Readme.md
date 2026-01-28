@@ -63,14 +63,6 @@
 
 ---
 
-### 🔝 Top Contributed Repo
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=unkown812&limit=5&theme=ocean_dark&combine_all_yearly_contributions=true" />
-</p>
-
----
-
 ## 💰 Support My Work
 
 <p align="center">
