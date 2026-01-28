@@ -40,7 +40,7 @@
 ### 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,dart,html,java,js,python,firebase,vite,tailwind,react,figma,github,git,arduino" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,java,js,python,firebase,tailwind,react,figma,github,git,arduino" />
 </p>
 
 ---
