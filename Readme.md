@@ -23,6 +23,10 @@
 
 ---
 
+<img src="https://githubusercontent.com" alt="Animated contribution snake"/>
+
+
+
 ### 🌐 Let's Connect
 
 <p align="center">
