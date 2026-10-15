@@ -3,7 +3,6 @@
 <table width="100%">
 <tr>
 <td width="64%" valign="middle">
-<p><sub>RECRUITER SIGNAL BRIEF · unkown812</sub></p>
 <h1>unkown812</h1>
 <h2>Frontend or full-stack engineer</h2>
 <p>CS Student [ Dev and Design | Ambassador @Google | Building scalable web/mobile apps &amp; AI-driven solution</p>
@@ -58,7 +57,7 @@
   <img src="https://www.gitskins.com/api/section/projects?username=unkown812&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F102848825%3Fu%3D1cb95e6ec293ad5b6b6ee5ce8dd18f3bea849318%26v%3D4&repos=unkown812%2Fjansahayak-ai%2Cunkown812%2FKoppee%2Cunkown812%2Fcodelab&v=recruiter-projects-1&mode=dark" width="100%" alt="unkown812 selected projects" />
 </picture>
 </td>
-<td width="42%" valign="top">
+<!-- <td width="42%" valign="top">
 <h3><a href="https://github.com/unkown812/jansahayak-ai">jansahayak-ai</a></h3>
 <p>JanSahayak AI was built for the Build with AI: Code for Communities Hackathon (supported by Google Cloud) on the Hack2Skill platform.</p>
 <p><sub>JavaScript · ⭐ 0 · 🍴 0</sub></p>
@@ -70,7 +69,7 @@
 <table width="100%">
 <tr>
 <td width="33%" valign="top"><h3><a href="https://github.com/unkown812/Koppee">Koppee</a></h3><p>A selected public project.</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/unkown812/codelab">codelab</a></h3><p>CodeLab is a static, zero-backend online compiler shell</p><p><sub>TypeScript · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/unkown812/codelab">codelab</a></h3><p>CodeLab is a static, zero-backend online compiler shell</p><p><sub>TypeScript · ⭐ 0</sub></p></td> -->
 </tr>
 </table>
 
