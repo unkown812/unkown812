@@ -1,85 +1,114 @@
-![Header](./github-header-banner.png)
-<!--<h1 align="center">Hi 👋, I'm unkown812</h1>
-<h3 align="center">Passionate Coder | Lifelong Learner</h3>-->
+<div align="center">
 
-***
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · unkown812</sub></p>
+<h1>unkown812</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>CS Student [ Dev and Design | Ambassador @Google | Building scalable web/mobile apps &amp; AI-driven solution</p>
+<p><strong>● Building and sharing work in public</strong></p>
+<p><sub>Based in Mumbai · Building at Canvas Builds</sub></p>
+<p><a href="https://github.com/unkown812">GitHub</a> &nbsp;·&nbsp; <a href="https://www.canvasbuilds.co.in">Website</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/102848825?u=1cb95e6ec293ad5b6b6ee5ce8dd18f3bea849318&amp;v=4" width="180" alt="unkown812 GitHub avatar" />
+</td>
+</tr>
+</table>
+</div>
 
-<h3 align="center"><i>Make it if you don't get it - &lt;/unkown812&gt;</i></h3>
+<h2>What teams can evaluate quickly</h2>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=700&color=00BFFF&center=true&vCenter=true&width=435&lines=Building+native+mobile+apps+%F0%9F%9A%80;Always+learning+something+new+%F0%9F%92%A1;Open+for+collaboration+and+major+projects+%F0%9F%92%AA;Web+development+questions%3F+Ask+me!+%F0%9F%91%8B" alt="Typing SVG" />
-</p>
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · TypeScript · Jupyter Notebook · HTML</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>34 repositories · 4 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>940 contributions · 181 active days</p></td>
+</tr>
+</table>
 
----
+<p><sub>CS Student [ Dev and Design | Ambassador @Google | Building scalable web/mobile apps &amp; AI-driven solution</sub></p>
 
-### 🚀 About Me
+<h2>Proof at a glance</h2>
 
-- 🔭 Currently building **Native Mobile Apps**
-- 🌱 Engineering the **Life**
-- 🤝 Open to collaboration on **major projects**
-- 💬 Ask me about **Web Development**
-- 📫 Reach me: **@unkown812**
-- ⚡ Fun fact: *"Didn't get it? Create it!"*
-
----
-
-<img src="https://githubusercontent.com" alt="Animated contribution snake"/>
-
-
-
-### 🌐 Let's Connect
-
-<p align="center">
-  <a href="https://discord.gg/unkown812"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" /></a>
-  <a href="https://instagram.com/unkown812"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/JayJogane"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
-  <a href="https://pinterest.com/jayjogane"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white" /></a>
-  <a href="https://youtube.com/@@lyrify143official"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" /></a>
-  <a href="https://codepen.io/unkown812"><img src="https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white" /></a>
-  <a href="mailto:jayjogane@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-</p>
-
----
-
-### 💻 Tech Stack
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>34</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>4</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>940</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>3</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,java,js,python,firebase,tailwind,react,figma,github,git,arduino" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=unkown812&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F102848825%3Fu%3D1cb95e6ec293ad5b6b6ee5ce8dd18f3bea849318%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=unkown812&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F102848825%3Fu%3D1cb95e6ec293ad5b6b6ee5ce8dd18f3bea849318%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="unkown812 GitHub proof metrics" />
+</picture>
 </p>
 
----
+<h2>Selected work</h2>
 
-<!--### 📊 GitHub Stats
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=unkown812&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F102848825%3Fu%3D1cb95e6ec293ad5b6b6ee5ce8dd18f3bea849318%26v%3D4&repos=unkown812%2Fjansahayak-ai%2Cunkown812%2FKoppee%2Cunkown812%2Fcodelab&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=unkown812&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F102848825%3Fu%3D1cb95e6ec293ad5b6b6ee5ce8dd18f3bea849318%26v%3D4&repos=unkown812%2Fjansahayak-ai%2Cunkown812%2FKoppee%2Cunkown812%2Fcodelab&v=recruiter-projects-1&mode=dark" width="100%" alt="unkown812 selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/unkown812/jansahayak-ai">jansahayak-ai</a></h3>
+<p>JanSahayak AI was built for the Build with AI: Code for Communities Hackathon (supported by Google Cloud) on the Hack2Skill platform.</p>
+<p><sub>JavaScript · ⭐ 0 · 🍴 0</sub></p>
+<p><a href="https://github.com/unkown812/jansahayak-ai">Read the repository →</a></p>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/unkown812/Koppee">Koppee</a></h3><p>A selected public project.</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/unkown812/codelab">codelab</a></h3><p>CodeLab is a static, zero-backend online compiler shell</p><p><sub>TypeScript · ⭐ 0</sub></p></td>
+</tr>
+</table>
+
+<h2>Technical toolkit</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=unkown812&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="150"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=unkown812&theme=dark&hide_border=false" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unkown812&theme=dark&hide_border=false&layout=compact" height="150"/>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=unkown812&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F102848825%3Fu%3D1cb95e6ec293ad5b6b6ee5ce8dd18f3bea849318%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=unkown812&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F102848825%3Fu%3D1cb95e6ec293ad5b6b6ee5ce8dd18f3bea849318%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="unkown812 technology stack" />
+</picture>
 </p>
 
----
--->
-### ✍️ Dev Quote
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>37% of public code</sub></td>
+<td width="20%" align="center"><strong>Jupyter Notebook</strong><br /><sub>16% of public code</sub></td>
+<td width="20%" align="center"><strong>HTML</strong><br /><sub>14% of public code</sub></td>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>13% of public code</sub></td>
+<td width="20%" align="center"><strong>CSS</strong><br /><sub>10% of public code</sub></td>
+</tr>
+</table>
+
+<h2>Consistency signal</h2>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=unkown812&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F102848825%3Fu%3D1cb95e6ec293ad5b6b6ee5ce8dd18f3bea849318%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=unkown812&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F102848825%3Fu%3D1cb95e6ec293ad5b6b6ee5ce8dd18f3bea849318%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="unkown812 contribution activity" />
+</picture>
 </p>
 
----
+<hr />
 
-## 💰 Support My Work
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/unkown812">GitHub</a><br /><a href="https://www.canvasbuilds.co.in">Website</a></td>
+</tr>
+</table>
 
-<p align="center">
-  <a href="https://buymeacoffee.com/unkown812">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-  </a>
-</p>
-
----
-
-<b>🌟 Fun fact about my journey</b>
-<p>
-If something doesn't exist yet, I just build it! 🚀<br>
-Always ready to experiment, learn, and help others grow.
-</p>
-
+<p align="center"><sub>unkown812 · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
