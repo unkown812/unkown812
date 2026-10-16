@@ -76,18 +76,9 @@
   <img src="https://www.gitskins.com/api/section/heatmap?username=unkown812&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F102848825%3Fu%3D1cb95e6ec293ad5b6b6ee5ce8dd18f3bea849318%26v%3D4&style=snake&v=cinematic-snake-1&mode=dark" width="100%" alt="unkown812 contribution snake" />
 </picture>
 
-<h2>Play the next move</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/chess?username=unkown812&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F102848825%3Fu%3D1cb95e6ec293ad5b6b6ee5ce8dd18f3bea849318%26v%3D4&v=cinematic-chess-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/chess?username=unkown812&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F102848825%3Fu%3D1cb95e6ec293ad5b6b6ee5ce8dd18f3bea849318%26v%3D4&v=cinematic-chess-1&mode=dark" width="100%" alt="unkown812 animated chess replay" />
-</picture>
-
 <p align="center"><sub>─────── ◇ ───────</sub></p>
 
 <div align="center">
-<p><sub>THE NEXT SCENE</sub></p>
-
 <h2>Keep the story moving</h2>
 
 <p>I enjoy working with people who care about the details, share the context, and ship something useful.</p>
