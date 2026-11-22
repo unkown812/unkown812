@@ -1,0 +1,57 @@
+name: Render profile
+
+# refreshes the live GitHub stats, metrics and contribution snake every 6 hours
+on:
+  schedule:
+    - cron: "0 */6 * * *" # every 6 hours
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["cards/render.py", "cards/scene.py", "cards/fonts/**", "cards/bg-*.jpg", ".github/workflows/render.yml"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: output
+  cancel-in-progress: false
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      # STATS_TOKEN (a PAT with read:user) lets private contributions count;
+      # without it the default token only sees public activity
+      - run: python cards/render.py stats
+        env:
+          STATS_TOKEN: ${{ secrets.STATS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      # the snake follows the same palette as the cards: sand on twilight,
+      # bronze on paper
+      - name: Generate contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake-sunset.svg?color_snake=%23e9b660&color_dots=%233a332b,%236b5a3f,%23a87e3f,%23d2a04f,%23e9b660
+            dist/snake-morning.svg?color_snake=%23b07814&color_dots=%23ece5d8,%23e0d0ac,%23d2b06f,%23c18f2c,%23b07814
+      # the stats cards live on an orphan `output` branch that's force-pushed as a
+      # single commit, so refreshes never pile up in main's history. If the
+      # render above fails this step is skipped and the old card stays up
+      - name: Publish stats to output branch
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          out=$(mktemp -d)
+          cp assets/stats-*.svg assets/metrics-*.svg dist/snake-*.svg "$out/"
+          cd "$out"
+          git init -q -b output
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add *.svg
+          git commit -q -m "chore: refresh profile stats"
+          git push -f "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" output

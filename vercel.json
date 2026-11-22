@@ -1,0 +1,9 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "functions": {
+    "api/music.py": {
+      "maxDuration": 15,
+      "excludeFiles": "{assets/**,cards/scene.py,cards/scene-source/**,cards/icons/**,cards/fonts/*.ttf,cards/bg-stats-*.jpg,cards/bg-metrics-*.jpg,cards/test_*.py,**/__pycache__/**}"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+.github
+assets
+README.md
+**/__pycache__
+cards/test_*.py
+cards/icons
+cards/scene-source
